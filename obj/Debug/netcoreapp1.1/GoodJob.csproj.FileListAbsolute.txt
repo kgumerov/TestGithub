@@ -1,0 +1,9 @@
+D:\Karen\ITIS\projects\GoodJob\bin\Debug\netcoreapp1.1\GoodJob.deps.json
+D:\Karen\ITIS\projects\GoodJob\bin\Debug\netcoreapp1.1\GoodJob.runtimeconfig.json
+D:\Karen\ITIS\projects\GoodJob\bin\Debug\netcoreapp1.1\GoodJob.runtimeconfig.dev.json
+D:\Karen\ITIS\projects\GoodJob\bin\Debug\netcoreapp1.1\GoodJob.dll
+D:\Karen\ITIS\projects\GoodJob\bin\Debug\netcoreapp1.1\GoodJob.pdb
+D:\Karen\ITIS\projects\GoodJob\obj\Debug\netcoreapp1.1\GoodJob.csproj.CoreCompileInputs.cache
+D:\Karen\ITIS\projects\GoodJob\obj\Debug\netcoreapp1.1\GoodJob.AssemblyInfo.cs
+D:\Karen\ITIS\projects\GoodJob\obj\Debug\netcoreapp1.1\GoodJob.dll
+D:\Karen\ITIS\projects\GoodJob\obj\Debug\netcoreapp1.1\GoodJob.pdb
